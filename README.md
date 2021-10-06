@@ -143,3 +143,6 @@ weights location: /final_code/output_models
 dataset location: /final_code/data/liar_dataset
 
 
+# Model weights
+
+[Download Weight files](https://drive.google.com/drive/folders/1yH7LiJN09Sla3kIy0bSdcYzxyncpzIaj?usp=sharing)
